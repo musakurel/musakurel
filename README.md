@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Musa Kurel</h1>
 <h3 align="center">I enjoy building websites as a freelancer with the latest modern technologies. I'm a Fullstack developer with primary focus on Node + React + Next.js + TypeScript</h3>
 
-- 🔭 I’m currently working on [Impfi](https://impfi.at/)
+- 🔭 I’m currently working on [Homa](https://www.homagames.com//)
 
 - 🌱 I’m currently learning **Node.js**
 
