@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me anything about **react, typescript**
+- 💬 Ask me anything about **React, Typescript,Node.js**
 
 - 📫 How to reach me **musakurel@gmail.com**
 
