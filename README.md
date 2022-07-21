@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Musa Kurel</h1>
-<h3 align="center">I enjoy building websites with the latest modern technologies. I'm a  Fullstack developer with primary focus on  React + Next.js + TypeScript+ Node </h3>
+<h3 align="center">I enjoy building websites with the latest modern technologies. I'm a  Fullstack developer with primary focus on  React + Next.js + TypeScript+ Node + Ruby on Rails </h3>
 
 
 
 
 
-- 💬 Ask me anything about **React, Typescript,Node.js**
 
 - 📫 How to reach me **musakurel@gmail.com**
 
